@@ -44,7 +44,7 @@ public class Menu  {
         AddressEntry newPerson = new AddressEntry(firstName, lastName, street, city, state, zip, phoneNum, email);
         obj.add(newPerson);
         // displays the added contact
-        System.out.println("Thank you the following contact has been added to your address bock: ");
+        System.out.println("Thank you the following contact has been added to your address book: ");
 
     }
 
